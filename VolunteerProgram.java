@@ -1,3 +1,7 @@
+   /*
+This is the implementation class that carries out the program.
+*/
+
 import javax.swing.JOptionPane;
 
 public class VolunteerProgram {
